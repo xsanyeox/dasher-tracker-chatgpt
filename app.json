@@ -11,10 +11,6 @@
       "package": 
 "com.sanyeo.dashertracker"
     },
-    "cli": {
-    "version": ">= 3.0.0",
-    "appVersionSource": "appVersion"
-    },
     "extra": {
       "eas": {
         "projectId": "916d19dd-14aa-4520-ac66-4bdbe91bcebd"
