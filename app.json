@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Dasher Tracker",
-    "slug": "dasher-tracker",
+    "slug": "dasher-tracker-chatgpt",
     "version": "1.0.0",
     "sdkVersion": "50.0.0",
     "platforms": ["android"],
