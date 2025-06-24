@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="splashscreen_background">#000000</color> <!-- Black background -->
-    <color name="primary">#FF0000</color> <!-- Optional: red primary color -->
-    <color name="primary_dark">#990000</color> <!-- Optional: darker red -->
-    <color name="accent">#FFFFFF</color> <!-- Optional: white accent -->
-</resources>
