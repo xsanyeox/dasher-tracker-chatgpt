@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Dasher Tracker",
+    "slug": "dasher-tracker",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": 
+"com.sanyeo.dashertracker"
+    }
+  }
+}
