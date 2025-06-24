@@ -10,7 +10,6 @@
     "sdkVersion": "50.0.0",
     "platforms": ["android"],
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "android": {
       "package": 
