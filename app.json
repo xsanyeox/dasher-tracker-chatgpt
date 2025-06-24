@@ -1,4 +1,8 @@
 {
+  "cli": {
+    "version": ">= 3.0.0",
+    "appVersionSource": "appVersion"
+  },
   "expo": {
     "name": "Dasher Tracker",
     "slug": "dasher-tracker-chatgpt",
@@ -14,8 +18,7 @@
     },
     "extra": {
       "eas": {
-        "projectId":
-"916d19dd-14aa-4520-ac66-4bdbe91bcebd"
+        "projectId": "916d19dd-14aa-4520-ac66-4bdbe91bcebd"
       }
     }
   }
