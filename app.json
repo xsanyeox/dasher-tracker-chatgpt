@@ -1,8 +1,4 @@
 {
-  "cli": {
-    "version": ">= 3.0.0",
-    "appVersionSource": "appVersion"
-  },
   "expo": {
     "name": "Dasher Tracker",
     "slug": "dasher-tracker-chatgpt",
@@ -14,6 +10,10 @@
     "android": {
       "package": 
 "com.sanyeo.dashertracker"
+    },
+    "cli": {
+    "version": ">= 3.0.0",
+    "appVersionSource": "appVersion"
     },
     "extra": {
       "eas": {
