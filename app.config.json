@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Dasher Tracker",
+    "slug": "dasher-tracker-chatgpt",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.sanyeo.dashertracker",
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "916d19dd-14aa-4520-ac66-4bdbe91bcebd"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    }
+  }
+}
